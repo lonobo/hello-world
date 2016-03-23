@@ -1,2 +1,2 @@
 # hello-world
-a first trial on master
+a first trial
